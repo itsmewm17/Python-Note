@@ -19,7 +19,7 @@ variable 一定會出現在 =左邊
 25 = age 
 >>>syntaxError: can’t assign to literal
 
-Variables Naming Rules
+Variables Naming Rules:
 (1)不能使用python關鍵字
 (2)variable不能含括space
 (3)第一個字必須是英文字(大、小寫都可)
@@ -40,6 +40,9 @@ It determines the data type according to the following rules:
 (1)整數：如7, 124, -4
 (2)浮點數(float)：如1.5, 3.14, 5.0
 
+<class “int”> → 代表將數字無條件捨去至最近的整數
+<class “float”> → 代表將數字為浮點數
+假如想顯示currency符號，則應寫為 print (“$” + str(123))
 
 
 
