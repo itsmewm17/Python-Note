@@ -21,10 +21,15 @@ variable 一定會出現在 =左邊
 
 Variables Naming Rules:
 (1)不能使用python關鍵字
+
 (2)variable不能含括space
+
 (3)第一個字必須是英文字(大、小寫都可)
+
 (4)第一個必須是數字
+
 (5)uppercase和lowercase都可被接受
+
 Eg:  ItemsOrdered和itemsordered 是兩個不同的variable
 
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/1940a0a1-7a5a-46e6-9059-1e229ec70688)
@@ -36,10 +41,15 @@ Variables Reassignment
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/fc36d9fc-870d-49f3-b1d9-665f6267e007)
 
 Python uses data types to categorize values in memory. When an integer is stored in memory, it is classified as an int, and when a real number is stored in memory, it is classified as a float. 
+
 #它可以是整數或浮點數
+
 It determines the data type according to the following rules:
+
 (1)整數：如7, 124, -4
+
 (2)浮點數(float)：如1.5, 3.14, 5.0
+
 
 <class “int”> → 代表將數字無條件捨去至最近的整數
 <class “float”> → 代表將數字為浮點數
