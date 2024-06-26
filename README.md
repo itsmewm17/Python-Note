@@ -1,4 +1,4 @@
-![image](https://github.com/itsmewm17/Python-Note/assets/166125320/b9cecc7e-ccdd-40a1-b22b-d32cce6cd759)Variable
+Variable
 CONCEPT: A variable is a name that represents a value stored in the computer’s memory.
 A variable is a name that represents a value in the computer’s memory. 
 
@@ -30,7 +30,15 @@ Eg:  ItemsOrdered和itemsordered 是兩個不同的variable
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/1940a0a1-7a5a-46e6-9059-1e229ec70688)
 
 
-
+Variables Reassignment
+![image](https://github.com/itsmewm17/Python-Note/assets/166125320/b4b0a36e-cc32-4083-8216-e8bd24a7f7b3)
+![image](https://github.com/itsmewm17/Python-Note/assets/166125320/4aa67d95-d4be-4fb8-8675-039ead724de7)
+![image](https://github.com/itsmewm17/Python-Note/assets/166125320/fc36d9fc-870d-49f3-b1d9-665f6267e007)
+Python uses data types to categorize values in memory. When an integer is stored in memory, it is classified as an int, and when a real number is stored in memory, it is classified as a float. 
+#它可以是整數或浮點數
+It determines the data type according to the following rules:
+(1)整數：如7, 124, -4
+(2)浮點數(float)：如1.5, 3.14, 5.0
 
 
 
