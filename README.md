@@ -34,6 +34,7 @@ Variables Reassignment
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/b4b0a36e-cc32-4083-8216-e8bd24a7f7b3)
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/4aa67d95-d4be-4fb8-8675-039ead724de7)
 ![image](https://github.com/itsmewm17/Python-Note/assets/166125320/fc36d9fc-870d-49f3-b1d9-665f6267e007)
+
 Python uses data types to categorize values in memory. When an integer is stored in memory, it is classified as an int, and when a real number is stored in memory, it is classified as a float. 
 #它可以是整數或浮點數
 It determines the data type according to the following rules:
